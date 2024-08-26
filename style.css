@@ -1,0 +1,84 @@
+.navbar{
+    display: flex;
+justify-content: space-between;
+text-decoration: none;
+background-color: aqua;
+padding:5px ;
+}
+
+*/{
+    .roboto-thin {
+        font-family: "Roboto", sans-serif;
+        font-weight: 100;
+        font-style: normal;
+      }
+}
+
+
+
+
+ul{
+    display: flex;
+    margin-left: 1000px;
+    text-decoration: none;
+    list-style: none;
+}
+li{
+   margin-left: 50px; 
+
+a{
+  text-decoration: none;  
+  list-style: none;
+}
+
+
+
+}
+.h1red{ text-align: center; 
+    letter-spacing:5px ;
+    color: aqua;
+    margin-top: 100px;
+ }
+   
+.intro{
+
+    display: flex;
+     margin: 2%;
+     background-color:beige;
+     padding:5% ;
+     border-radius:10px ;
+}
+.intro img{
+    width:400px ;
+}
+.intro p{
+padding:5% ;
+margin-right: 2%;
+
+
+}
+.country{
+    display: flex;
+    flex-wrap: wrap;
+  justify-content: space-around;
+}
+.country img{
+ width:400px ;
+ height:300px ;
+}
+
+.logo{
+    border:1px black solid;
+    border-radius: 5px;
+    margin-bottom:50px ;
+    text-align: center;
+ 
+}
+.formulaire{
+    display: flex;
+flex-direction: column;
+text-align:center ;
+margin :10 10px;
+background-color: blue;
+
+}
